@@ -21,7 +21,7 @@ This is a step by step series of examples to get the project up and running on y
 First thing is to enter the working directory like so
 
 ```
-cd smart-steel-task
+cd csv_uploader
 ```
 
 Secondly create a new `virtualenv` wrapper with the following command
